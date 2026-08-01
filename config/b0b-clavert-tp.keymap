@@ -64,21 +64,21 @@
         Base {
             display-name = "Base";
             bindings = <
-&kp A           &kp A                                                           &kp A      &kp A
-&kp Q           &kp N5                                                          &kp N6     &kp P
-&kp F                                                                                      &kp J
-&kp LEFT_SHIFT  &kp E                                                           &kp I      &kp SQT
-&kp TAB         &kp C         &kp A   &kp R   &kp A    &out OUT_USB    &kp U   &kp A   &kp COMMA  &kp A
-&kp ESCAPE      &kp RET                                                         &kp SPACE  &kp BACKSPACE
-&kp T           &kp A                                                           &kp BSPC   &kp Y
-&kp A           &kp LEFT_GUI                                                    &mo 1      &kp A
-&kp V           &kp B                                                           &kp N      &kp M
-&kp X           &kp W         &kp N2  &kp N3  &kp A    &kp DEL  &kp N8  &kp N9  &kp O      &kp DOT
-&kp D                                                                                      &kp K
-&kp S           &kp A                                                           &kp A      &kp L
-&kp N1          &kp A                                                           &kp SEMI   &kp N0
-&kp A           &kp Z         &kp G                                     &kp H   &kp FSLH   &kp A
-&kp LCTRL       &kp NUMBER_4                                                    &kp N7     &kp A
+&kp A           &kp A                                                                &kp A      &kp A
+&kp Q           &kp N5                                                               &kp N6     &kp P
+&kp F                                                                                           &kp J
+&kp LEFT_SHIFT  &kp E                                                                &kp I      &kp SQT
+&kp TAB         &kp C         &kp A   &kp R   &kp A    &out OUT_USB  &kp U   &kp A   &kp COMMA  &kp A
+&kp ESCAPE      &kp RET                                                              &kp SPACE  &kp BACKSPACE
+&kp T           &kp A                                                                &kp BSPC   &kp Y
+&kp A           &kp LEFT_GUI                                                         &mo 1      &kp A
+&kp V           &kp B                                                                &kp N      &kp M
+&kp X           &kp W         &kp N2  &kp N3  &kp A    &kp DEL       &kp N8  &kp N9  &kp O      &kp DOT
+&kp D                                                                                           &kp K
+&kp S           &kp A                                                                &kp A      &kp L
+&kp N1          &kp A                                                                &kp SEMI   &kp N0
+&kp A           &kp Z         &kp G                                          &kp H   &kp FSLH   &kp A
+&kp LCTRL       &kp NUMBER_4                                                         &kp N7     &kp A
             >;
         };
 
