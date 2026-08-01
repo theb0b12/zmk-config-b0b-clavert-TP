@@ -21,7 +21,7 @@ include:
   - board: nice_nano_v2
     shield: b0b-clavert-tp-left
   - board: nice_nano_v2
-    shield: b0b-clavert-tp-left
+    shield: b0b-clavert-tp-right
 
   # Alternative PINs firmware
   # This builds an additional firmware for the right half that overrides the
