@@ -68,7 +68,7 @@
 &kp Q           &kp N5                                                          &kp N6     &kp P
 &kp F                                                                                      &kp J
 &kp LEFT_SHIFT  &kp E                                                           &kp I      &kp SQT
-&kp TAB         &kp C         &kp A   &kp R   &kp A    &kp A    &kp U   &kp A   &kp COMMA  &kp A
+&kp TAB         &kp C         &kp A   &kp R   &kp A    &out OUT_USB    &kp U   &kp A   &kp COMMA  &kp A
 &kp ESCAPE      &kp RET                                                         &kp SPACE  &kp BACKSPACE
 &kp T           &kp A                                                           &kp BSPC   &kp Y
 &kp A           &kp LEFT_GUI                                                    &mo 1      &kp A
