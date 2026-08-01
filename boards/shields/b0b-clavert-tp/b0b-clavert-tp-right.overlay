@@ -4,7 +4,7 @@
  * SPDX-License-Identifier: MIT
  */
 
-#include "b0b_clavert-tp.dtsi"
+#include "b0b-clavert-tp.dtsi"
 
 &matrix_transform0 {
     row-offset = <5>;

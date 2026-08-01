@@ -92,7 +92,7 @@
 &trans  &trans                                                                          &trans     &trans
 &trans  &trans                                                                          &trans     &trans
 &trans  &trans                                                                          &trans     &trans
-&trans  &studio_unlock                                                                  &kp UNDER  &kp PLUS
+&trans  &trans                                                                  &kp UNDER  &kp PLUS
 &trans  &trans          &kp F2  &kp F3  &trans         &trans       &kp F10  &kp F11    &trans     &trans
 &trans                                                                                             &trans
 &trans  &trans                                                                          &trans     &trans
