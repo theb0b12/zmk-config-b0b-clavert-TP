@@ -90,7 +90,7 @@
 &trans  &trans                                                                            &trans     &trans
 &trans  &trans        &trans      &trans  &bootloader    &bootloader  &trans   &trans     &trans     &trans
 &trans  &trans                                                                            &trans     &trans
-&trans  &trans                                                                            &trans     &out OUT_USB
+&trans  &trans                                                                            &trans     &trans
 &trans  &trans                                                                            &trans     &trans
 &trans  &trans                                                                            &kp UNDER  &kp PLUS
 &trans  &trans        &kp F2      &kp F3  &trans         &trans       &kp F10  &kp F11    &trans     &trans
