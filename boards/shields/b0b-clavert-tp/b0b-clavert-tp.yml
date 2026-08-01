@@ -11,4 +11,6 @@ features:
   - underglow
 siblings:
   - b0b-clavert-left
-  - corne-tp-right
+  - b0b-clavert-right
+  - b0b-clavert-tp-left
+  - b0b-clavert-tp-right
